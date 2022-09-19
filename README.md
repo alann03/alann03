@@ -44,4 +44,4 @@
 
 - <p>📞 (+54) 11 34251923</p>
 - <p>📧 huismann.alan@gmail.com</p>
-- <a href="https://www.linkedin.com/in/facuramirez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- <a href="https://www.linkedin.com/in/alan-huismann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
