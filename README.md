@@ -3,7 +3,7 @@
 
 ## 👀 Sobre mí
 
-<p>👋 ¡Hola! Mi nombre es Alan, tengo 20 años, soy Desarrollador Web Full Stack y estudiante universitario de Tecnicatura en Informática.
+<p>👋 ¡Hola! Mi nombre es Alan, tengo 21 años, soy Desarrollador Web Full Stack y estudiante universitario de Tecnicatura en Informática.
 
 🙇‍♂️ Soy una persona apasionada por el desarrollo, lo cual me lleva a estar en constante aprendizaje y capacitación. Siempre estoy dispuesto a hacer todo lo posible para lograr los mejores resultados y superar cualquier desafío que se me presente.
 
